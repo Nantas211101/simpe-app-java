@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleAppProfile</string>
+    <string name="faculty_telephone">+84 – 0789 – 541429</string>
+    <string name="default_contact_number">0789541429</string>
+    <string name="name_of_faculty">Faculty of Information</string>
+    <string name="a_picture_of_faculty">a picture of Faculty</string>
+    <string name="hyperlink_to_website">link to HCMUS</string>
+    <string name="address_content">Address: B33, Trung Nu Vuong street, Lai Thieu, Thuan An, Binh Duong</string>
+    <string name="name_content">Full name: Vo Truong Thinh</string>
+    <string name="id_content">MSSV: 22125100</string>
+    <string name="class_content">Class: 22APCS2</string>
+    <string name="default_web_url">https://www.fit.hcmus.edu.vn/undergraduate</string>
+</resources>
